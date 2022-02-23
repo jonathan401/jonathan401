@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathan401
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Front-end Web Development
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Jonathangomina5049@gmail.com
 
