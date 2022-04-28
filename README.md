@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jonathan401
-- 👀 I’m interested in web development
+- 👋 Hi, I’m jonathan
+- 👀 I’m interested in building web apps
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on a large web project
 - 📫 How to reach me Jonathangomina5049@gmail.com
