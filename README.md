@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jonathan Gomina
 - 👀 I’m interested in building web and mobile app solutions
 - 🌱 I’m currently learning React Native 
-- 💞️ I’m looking to collaborate on projects that solve real world projects and pushes me to growth 
+- 💞️ I’m looking to collaborate on projects that solve real world projects and pushes me to grow as a developer
 - 📫 How to reach me Jonathangomina5049@gmail.com
 
 <!---
